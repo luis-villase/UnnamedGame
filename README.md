@@ -33,10 +33,27 @@ Game for the 2020 Epic Game Jam
   * E11 - Feed Variables in Event Graphs
     * A fancy graph to code logic to wire points.
   * E12 - Create Character Blueprints, more at http://docs.unrealengine.com/latest/INT/Engine/Blueprints/index.html
-    * Add Components like camera, something to stick camera,
+    * Add Components like camera, something to stick camera
+  * E13 - Character Keyboard and Mouse.
+  * E14 - Game Mode, Testing, set toggle properties and for controllers.
+  * E15 - Touch Controllers, Jump and Cammera hoover.
+  * E16 - Intro to Animation Montage
+    * Montage is to combine animations
+    * Play Animations Selectively
+    * Fire off Events
+  * E17 - Create Animation Montage for Punching and fixing skeleton
+  * E18 - Animation Event Graph to set if it is punching
+  * E19 - Continue Set Graphic for isPunching
+  * E20 - Using Slots
+  * E21 - Agregar Física
+    * More about particles: https://docs.unrealengine.com/latest/INT/Engine/Rendering/ParticleSystems/index.html
 * Isometric-Shooter: https://github.com/luis-villase/Isometric-Shooter
 * Trello Dashboards:
   * Brainstorm: https://trello.com/b/aoPbIFLu/lluvia-de-ideas
   * Unreal HackJam: https://trello.com/b/grFKAnio/unreal-4-hackjam-2020-12
 * Assets List: https://docs.google.com/spreadsheets/d/1ql7jah7E7hdI2_T-at6oQfeGtCWuN-CbirU33ebzLdU/edit#gid=0
   * Model: https://sketchfab.com/3d-models/gart220-female-viking-29f88c37b399483dbaba79b4650d4752
+
+## UML Diagrams:
+* Read Plant UML Diagrams at https://www.planttext.com/ or any PlanUML parser
+* Reference for Plant UML 
